@@ -7,7 +7,7 @@ JavaStatAnalyzer is a Java program that performs statistical analyses on user-pr
 - [About](#about)
 - [Features](#features)
 - [Imports](#Imports)
-- [Rating: 7/10](#Rating)
+- [Rating: 3/10](#Rating)
 
 # About
 
@@ -22,3 +22,7 @@ JavaStatAnalyzer is a powerful tool that offers several impressive features. It 
 scanner, ArrayList
 
 # Rating
+
+The code contains numerous syntax and logic errors that prevent it from compiling or running. These include incorrect capitalization, missing semicolons at the end of statements, misspelled methods, incorrect method signatures in the main method, and missing type declarations in variable declarations. Despite these issues, there are significant logic errors, such as the idexOfSmallestElement method declaring the smallest element in an array of integers instead of an array of doubles, the loop condition resulting in an infinite loop, and confusion between arrays and ArrayLists, causing compilation errors.
+The project aims to find the mean and deviation of numbers and input student names and scores, but due to these errors, the functionality is not realized. The code lacks proper indentation and consistent formatting, making it difficult to read and understand. Variable names are sometimes inconsistent, and there are misspellings, such as "idexOfSmallestElement."
+In conclusion, the project demonstrates an attempt to implement various functionalities but falls short due to numerous syntax and logic errors. Significant revisions are needed to improve the code's compileability, runability, and overall quality.
